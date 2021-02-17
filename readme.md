@@ -1,3 +1,1 @@
-# Hello
-
-# Goodbye
+# This is a very basic photo page.
