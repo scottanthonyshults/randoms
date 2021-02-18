@@ -8,6 +8,7 @@ main {
     margin: 0 auto;
     min-width: 450px;
     max-width: 1300px;
+    background-color: rgb(250, 250, 250);
 }
 figure {
     width: 100%;
